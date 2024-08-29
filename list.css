@@ -8,7 +8,7 @@
     display: block;
 }
 body{
-    background: linear-gradient(135deg, #152677, #4e085f);
+    background: linear-gradient(#4e085f);
 }
 .todo-app{
     width: 100%;
